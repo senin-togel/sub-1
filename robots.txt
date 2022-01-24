@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://senin-togel.github.io/sub-1/sitemap.xml
